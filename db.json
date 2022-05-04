@@ -1,3 +1,98 @@
 {
-
+	"playlists": [
+		{
+			"id": 1,
+			"name": "My Hip Hop Mix",
+			"items": [
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=v6HBZC9pZHQ",
+					"title": "Baby Keem, Kendrick Lamar - Family ties"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
+					"title": "Kendrick Lamar - Humble"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=ba7mB8oueCY",
+					"title": "Post Malone, Young Thug - Goodbyes"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=wXhTHyIgQ_U",
+					"title": "Post Malone - Circles"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=XXYlFuWEuKI",
+					"title": "The Weeknd - Save Your Tears"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+					"title": "The Weeknd - Blinding Lights"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=yzTuBuRdAyA",
+					"title": "The Weeknd - Hills"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=34Na4j8AVgA",
+					"title": "The Weeknd, Daft Punk - Starboy"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=waU75jdUnYw",
+					"title": "The Weeknd - Earned It"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Girl Power",
+			"items": [
+				{
+					"videoUrl": "https: //www.youtube.com/watch?v=k2qgadSvNyU",
+					"title": "Dua Lipa - New Rules"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+					"title": "Dua Lipa, DaBaby - Levitating"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+					"title": "Dua Lipa - Don't Start Now"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=lWA2pjMjpBs",
+					"title": "Rihanna - Diamonds"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=sEhy-RXkNo0",
+					"title": "Rihanna - Man Down"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "On the Run",
+			"items": [
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+					"title": "Dua Lipa - Don't Start Now"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=lWA2pjMjpBs",
+					"title": "Rihanna - Diamonds"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=sEhy-RXkNo0",
+					"title": "Rihanna - Man Down"
+				},
+				{
+					"videoUrl": "https: //www.youtube.com/watch?v=k2qgadSvNyU",
+					"title": "Dua Lipa - New Rules"
+				},
+				{
+					"videoUrl": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+					"title": "Dua Lipa, DaBaby - Levitating"
+				}
+			]
+		}
+	]
 }
